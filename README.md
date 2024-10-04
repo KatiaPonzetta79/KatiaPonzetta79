@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @KatiaPonzetta79.
+- 👀 I’m interested in learning more about Python programming and Data Science.
+- 🌱 I’m currently  in a career migration, looking for a position as a Data Analyst or Data Scientist.
+- 💞️ My goal is to provide problem solutions through data analysis.
+- 📫 You can contact me via email kponzetta@gmail.com or [linkedin.com/in/katia-ponzetta.](https://www.linkedin.com/in/katia-ponzetta)
+- 😄 Pronouns: Her.
+- ⚡ Curiosity: I like the smell of pencils, books and new notebooks.
